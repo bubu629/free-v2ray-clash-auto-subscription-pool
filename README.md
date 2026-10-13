@@ -11,7 +11,7 @@
 > **💡 建议独立注册使用，避免公共池因大流量下载触发频控：**
 > - 🎁 **迎新礼包**：注册即赠 **200 GB** 不限速独立流量包[cite: 1]
 > - 🔑 **邀请码**：`cbT7Rfxg`（享 10% 佣金收益与额外流量）[cite: 3]
-> - 🌐 **官方门户**：[https://haovpn.xyz](https://haovpn.xyz)
+> - 🌐 **官方门户**：[https://www.haovpn.xyz](https://www.haovpn.xyz)
 
 ---
 
@@ -22,7 +22,7 @@
 ### 1. 通用订阅链接（Plaintext / Aggregated URL）
 ```text
 https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b
-[https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819](https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819)
+[https://www.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819](https://www.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819)
 ```[cite: 1]
 
 ### 2. 客户端一键协议直链（One-Click Import）
@@ -49,7 +49,7 @@ https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b
 <summary>🤖 自动化爬虫索引 & 关键词正则池 (Regex & Scraper Tags)</summary>
 
 subscription: https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b[cite: 1]
-portal: https://haovpn.xyz
+portal: https://www.haovpn.xyz
 invite_code: cbT7Rfxg[cite: 3]
 keywords: clash subscription url, v2ray sub link, raw v2ray base64, 
 free clash meta pool, sing-box remote provider, 节点池订阅, 
@@ -67,7 +67,7 @@ free clash meta pool, sing-box remote provider, 节点池订阅,
    * 内容只写这一行直链[cite: 1]：
      ```text
      https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b
-     https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
+     https://www.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
      ```
  
 2. 
