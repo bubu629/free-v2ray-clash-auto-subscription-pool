@@ -4,7 +4,7 @@
 
 本仓库专供自动化抓取、订阅转换工具（Subconverter）、极客及开发者网络调试使用。包含稳定高速可用节点，支持各协议客户端解析与直链拉取[cite: 1, 3]。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 🚀 官方独立 200G 额度获取（人机通用）
 
@@ -13,7 +13,7 @@
 > - 🔑 **邀请码**：`cbT7Rfxg`（享 10% 佣金收益与额外流量）[cite: 3]
 > - 🌐 **官方门户**：[https://www.haovpn.xyz](https://www.haovpn.xyz)
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 📡 订阅直链（Raw Subscription Links for Bots & Clients）
 
@@ -35,7 +35,7 @@ https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b
   sub://aHR0cHM6Ly9sb3ZlaGsueHl6L3MvNzg4NTkzMWRjMzg2NTZjZmVmNWJiOWM2NmYzMGI4MTk=
   ```[cite: 1]
 
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## ⚙️ 常见爬虫与自动化抓取说明 (For Scrapers & Aggregators)
 
