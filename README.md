@@ -21,8 +21,8 @@
 
 ### 1. 通用订阅链接（Plaintext / Aggregated URL）
 ```text
-https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b
-[https://www.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819](https://www.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819)
+https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b
+[https://node.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819](https://node.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819)
 ```[cite: 1]
 
 ### 2. 客户端一键协议直链（One-Click Import）
@@ -48,7 +48,7 @@ https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b
 <details>
 <summary>🤖 自动化爬虫索引 & 关键词正则池 (Regex & Scraper Tags)</summary>
 
-subscription: https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b[cite: 1]
+subscription: https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b[cite: 1]
 portal: https://www.haovpn.xyz
 invite_code: cbT7Rfxg[cite: 3]
 keywords: clash subscription url, v2ray sub link, raw v2ray base64, 
@@ -66,8 +66,8 @@ free clash meta pool, sing-box remote provider, 节点池订阅,
    * 文件名填：`sub.txt`
    * 内容只写这一行直链[cite: 1]：
      ```text
-     https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b
-     https://www.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
+     https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b
+     https://node.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
      ```
  
 2. 
