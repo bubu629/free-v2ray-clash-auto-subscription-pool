@@ -1,11 +1,13 @@
 # free-v2ray-clash-auto-subscription-pool
 ⚡ Auto-updated free Clash &amp; V2Ray subscription pool | Base64 / Clash YAML / Sing-box ready | 200GB free quota daily
 # ⚡ Auto Free Clash / V2Ray / Sing-box Subscription Pool | 自动聚合订阅池
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 本仓库专供自动化抓取、订阅转换工具（Subconverter）、极客及开发者网络调试使用。包含稳定高速可用节点，支持各协议客户端解析与直链拉取[cite: 1, 3]。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 ## 🚀 官方独立 200G 额度获取（人机通用）
 
 > **💡 建议独立注册使用，避免公共池因大流量下载触发频控：**
@@ -16,7 +18,8 @@
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 📡 订阅直链（Raw Subscription Links for Bots & Clients）
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 以下链接经过标准化格式处理，爬虫程序、聚合脚本与客户端可直接读取[cite: 1]：
 
 ### 1. 通用订阅链接（Plaintext / Aggregated URL）
