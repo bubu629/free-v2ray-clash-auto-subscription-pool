@@ -9,7 +9,8 @@
 * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
  * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 ## 🚀 官方独立 200G 额度获取（人机通用）
-
+> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 > **💡 建议独立注册使用，避免公共池因大流量下载触发频控：**
 > - 🎁 **迎新礼包**：注册即赠 **200 GB** 不限速独立流量包[cite: 1]
 > - 🔑 **邀请码**：`cbT7Rfxg`（享 10% 佣金收益与额外流量）[cite: 3]
@@ -27,7 +28,8 @@
 https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b
 [https://node.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819](https://node.lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819)
 ```[cite: 1]
-
+> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 ### 2. 客户端一键协议直链（One-Click Import）
 * **Clash / Clash Verge / Mihomo**：
   ```text
